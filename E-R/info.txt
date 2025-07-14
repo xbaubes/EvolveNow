@@ -1,0 +1,53 @@
+6 BIOMES on poden habitar les ESPECIES
+
+TERRESTRES
+- Tundra: Regions fredes amb sòl a vegades gelat i vegetació molt escassa. Clima polar o d’alta muntanya.
+	Temperatura mitjana anual: entre -15 °C i 0 °C. ❄️
+	Precipitacions baixes, entre 200 i 300 mm a l’any. 🌨️
+	Pressió atmosfèrica baixa: 700 - 900 hPa.
+- Bosc: Àrees amb gran cobertura d’arbres. Clima tropical o subtropical.
+	Clima tropical: Temperatura mitjana anual alta, entre 15 °C i 30 °C. 🌡️
+	Precipitacions entre 1.000 i 2.000 mm anuals. ⛈️
+	Alta humitat relativa: 80-90%. 💧
+- Praderia: Espais amb vegetació herbàcia predominant i pocs arbres. Clima temperat.
+	Clima temperat: Temperatura mitjana anual entre 0 °C a 25 °C.
+	Precipitació anual entre 400 i 800 mm. 🌦️
+- Desert: Àrees amb precipitacions mínimes, alta amplitud tèrmica i vegetació adaptada a la sequera. Clima àrid.
+	Durant el dia les temperatures poden superar els 40 °C, mentre que a la nit poden caure per sota de 5 °C. 🔥
+	Precipitació entre 50 i 150 mm anuals. ☀️
+	Baixa humitat relativa: 20-30%. 🌵
+
+AQUÀTICS
+- Riu: Aigua dolça. Ecosistemes interiors amb corrents o estancaments d’aigua, presenten condicions variables de temperatura i humitat elevada.
+- Oceà: Aigua salada. Aigües profundes. Variació tèrmica poc significativa.
+
+---------
+
+	CREACIÓ
+Cada Déu té cada dia: màxim 100 individus a repartir entre varis biomes, o un de sol
+
+	EVOLUCIÓ
+quan:
+- característiques anatòmiques
+- capacitats físiques
+d'un REGISTRE EVOLUTIU
+divergeixen suficientment de:
+- característiques anatòmiques INICIALS
+- capacitats físiques INICIALS
+d'una ESPECIE
+es crea una ESPECIE nova, si les característiques de varis LLINATGES són similars tots canvien a la nova ESPECIE
+
+si una espècie existeix en dos biomes es pot produir transferència d'individus
+
+Estadístiques és un registre de l'activitat
+
+Característiques són els paràmetres que usa per sobreviure (atac, defensa, protecció, etc)
+
+	DADES
+Es mostrarà l'arbre filogenètic per veure com s'enllacen les ESPECIES
+Inclourà descripcions predissenyades per explicar els canvis produïts
+
+Quan una ESPECIE s'extingeix s'eliminen els registres relacionats de la taula REGISTRE_EVOLUTIU, només es mantenen els registres definitius
+
+---------
+
