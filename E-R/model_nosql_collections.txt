@@ -1,0 +1,39 @@
+deu = {
+  "_id": ObjectId,
+  "username": String,
+  "password_hash": String,
+  "permet_creacio": Boolean
+}
+
+bioma = {
+  "_id": ObjectId,
+  "caracteristiques": String
+}
+
+especie = {
+  "_id": ObjectId,
+  "nom": String,
+  "any_aparicio": NumberInt,
+  "especie_origen_id": ObjectId | null,
+  "caracteristiques": String,
+  "extinta": Boolean,
+  "motiu_extincio": String | null,
+  "deu_id": ObjectId | null
+}
+
+llinatge = {
+  "_id": ObjectId,
+  "any_aparicio": NumberInt,
+  "estadistiques_finals": String,
+  "especie_id": ObjectId,
+  "bioma_id": ObjectId
+}
+
+registre_evolutiu = {
+  "_id": ObjectId,
+  "nombre_individus": NumberInt,
+  "caracteristiques_actuals": String,
+  "estadistiques": String,
+  "especie_id": ObjectId,
+  "bioma_id": ObjectId
+}
