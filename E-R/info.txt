@@ -23,6 +23,27 @@ AQUÀTICS
 
 ---------
 
+ESPECIES
+
+Arbre de selecció:
+
+CATEGORIES
+	INVERTEBRATS
+		Porífer (Esponges marines) 🧽
+		Cnidari (Meduses, anemones) 🪼
+		Equinoderm (Estrelles i eriçons de mar) ⭐
+		Anèl·lid (Cucs segmentats) 🪱
+		Mol·lusc (Cargols, cloïsses, pops) 🐌
+		Artròpode (Insectes, aranyes, crustacis) 🐜
+	VERTEBRATS
+		Peix (Salmons, taurons) 🐟
+		Amfibi (Tritons, granotes) 🦎
+		Rèptil (Serps, sargantanes, tortugues) 🐍
+		Au (Mussols, ànecs, pingüins) 🦉
+		Mamífer (Elefants, primats, ratpenats) 🐘
+
+---------
+
 	CREACIÓ
 Cada Déu té cada dia: màxim 100 individus a repartir entre varis biomes, o un de sol
 
