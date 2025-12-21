@@ -18,8 +18,10 @@ TERRESTRES
 	Baixa humitat relativa: 20-30%. 🌵
 
 AQUÀTICS
-- Riu: Aigua dolça. Ecosistemes interiors amb corrents o estancaments d’aigua, presenten condicions variables de temperatura i humitat elevada.
-- Oceà: Aigua salada. Aigües profundes. Variació tèrmica poc significativa.
+- Riu: Aigua dolça.
+	Ecosistemes interiors amb corrents o estancaments d’aigua, presenten condicions variables de temperatura i humitat elevada.
+- Oceà: Aigua salada.
+	Aigües profundes. Variació tèrmica poc significativa.
 
 ---------
 
