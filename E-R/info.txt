@@ -32,9 +32,9 @@ Arbre de selecció:
 CATEGORIES
 	INVERTEBRATS
 		Porífer (Esponges marines) 🧽
-		Cnidari (Meduses, anemones) 🪼
-		Equinoderm (Estrelles i eriçons de mar) ⭐
-		Anèl·lid (Cucs segmentats) 🪱
+		Cnidari (Meduses, anemones, coralls) 🪼
+		Equinoderm (Estrelles de mar, eriçons de mar) ⭐
+		Cuc (Anèl·lids, nematodes i platelmints) 🪱
 		Mol·lusc (Cargols, cloïsses, pops) 🐌
 		Artròpode (Insectes, aranyes, crustacis) 🐜
 	VERTEBRATS
@@ -61,6 +61,8 @@ d'una ESPECIE
 es crea una ESPECIE nova, si les característiques de varis LLINATGES són similars tots canvien a la nova ESPECIE
 
 si una espècie existeix en dos biomes es pot produir transferència d'individus
+
+una espècie podria canviar de categoria, evolucionar, per exemple: porífer-> cnidari -> cuc-> peix
 
 Estadístiques és un registre de l'activitat
 
